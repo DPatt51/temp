@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Display Image App</string>
+    <string name="TextView" />
+    <string name="input_image">Input image</string>
+    <string name="Pneumonia_Detector">Pneumonia Detector</string>
+    <string name="Results">Results:\nConfidence:</string>
+</resources>
